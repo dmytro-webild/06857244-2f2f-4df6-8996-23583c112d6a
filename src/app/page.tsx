@@ -81,17 +81,17 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "carousel-item-1",
-          imageSrc: "http://img.b2bpic.net/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063165.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063165.jpg?_wi=1",
           imageAlt: "Chat platform desktop interface",
         },
         {
           id: "carousel-item-2",
-          imageSrc: "http://img.b2bpic.net/free-photo/password-lock-phone-screen_1387-186.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/password-lock-phone-screen_1387-186.jpg?_wi=1",
           imageAlt: "Chat platform tablet interface",
         },
         {
           id: "carousel-item-3",
-          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-looking-smartphone_23-2148012921.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-looking-smartphone_23-2148012921.jpg?_wi=1",
           imageAlt: "Chat platform smartphone interface",
         },
         {
@@ -169,7 +169,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063165.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063165.jpg?_wi=2",
           imageAlt: "data encryption abstract security",
         },
         {
@@ -194,7 +194,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/password-lock-phone-screen_1387-186.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/password-lock-phone-screen_1387-186.jpg?_wi=2",
           imageAlt: "data encryption abstract security",
         },
         {
@@ -219,7 +219,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-looking-smartphone_23-2148012921.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-looking-smartphone_23-2148012921.jpg?_wi=2",
           imageAlt: "data encryption abstract security",
         },
       ]}
